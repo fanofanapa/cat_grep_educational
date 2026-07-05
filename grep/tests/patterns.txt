@@ -1,0 +1,8 @@
+error
+^WARN
+INFO$
+^[0-9]{3}$
+(foo|bar|baz) 
+hello.world
+path/to/.+
+[A-Z]{2,5}-[0-9]{2,4}

@@ -1,0 +1,25 @@
+Hello World
+error: file not found
+Warning: low memory
+This is a test line
+Another line with Error
+ERROR in system
+1234567890
+Empty line follows:
+
+CaseInsensitiveTest
+some random text
+error repeated error repeated
+final line
+
+world, hello!
+hello world here we go again
+hello1
+123
+1111
+
+Error! Some text line
+
+hello error hello HELLO
+
+190809fsd66&^%&!
